@@ -7,7 +7,6 @@ This project demonstrates the **Decorator Design Pattern** in C#. It allows for 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Design Pattern Explanation](#design-pattern-explanation)
-- [Tests](#tests)
 
 ---
 
