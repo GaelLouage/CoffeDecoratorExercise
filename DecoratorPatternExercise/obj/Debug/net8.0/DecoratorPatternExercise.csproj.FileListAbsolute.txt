@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\DecoratorPatternExercise\DecoratorPatternExercise\bin\Debug\net8.0\DecoratorPatternExercise.exe
+C:\Users\louag\source\repos\DecoratorPatternExercise\DecoratorPatternExercise\bin\Debug\net8.0\DecoratorPatternExercise.deps.json
+C:\Users\louag\source\repos\DecoratorPatternExercise\DecoratorPatternExercise\bin\Debug\net8.0\DecoratorPatternExercise.runtimeconfig.json
+C:\Users\louag\source\repos\DecoratorPatternExercise\DecoratorPatternExercise\bin\Debug\net8.0\DecoratorPatternExercise.dll
+C:\Users\louag\source\repos\DecoratorPatternExercise\DecoratorPatternExercise\bin\Debug\net8.0\DecoratorPatternExercise.pdb
+C:\Users\louag\source\repos\DecoratorPatternExercise\DecoratorPatternExercise\obj\Debug\net8.0\DecoratorPatternExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\DecoratorPatternExercise\DecoratorPatternExercise\obj\Debug\net8.0\DecoratorPatternExercise.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\DecoratorPatternExercise\DecoratorPatternExercise\obj\Debug\net8.0\DecoratorPatternExercise.AssemblyInfo.cs
+C:\Users\louag\source\repos\DecoratorPatternExercise\DecoratorPatternExercise\obj\Debug\net8.0\DecoratorPatternExercise.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\DecoratorPatternExercise\DecoratorPatternExercise\obj\Debug\net8.0\DecoratorPatternExercise.dll
+C:\Users\louag\source\repos\DecoratorPatternExercise\DecoratorPatternExercise\obj\Debug\net8.0\refint\DecoratorPatternExercise.dll
+C:\Users\louag\source\repos\DecoratorPatternExercise\DecoratorPatternExercise\obj\Debug\net8.0\DecoratorPatternExercise.pdb
+C:\Users\louag\source\repos\DecoratorPatternExercise\DecoratorPatternExercise\obj\Debug\net8.0\DecoratorPatternExercise.genruntimeconfig.cache
+C:\Users\louag\source\repos\DecoratorPatternExercise\DecoratorPatternExercise\obj\Debug\net8.0\ref\DecoratorPatternExercise.dll
